@@ -1,2 +1,2 @@
 # microsite
-see the deployment here: https://ash-dci.github.io/microsite/
+feel free see the deployment here:  https://ashraftajuddin.github.io/dci-digitalOrientationCourse-2019/
